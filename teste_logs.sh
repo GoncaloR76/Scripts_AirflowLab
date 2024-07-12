@@ -12,6 +12,10 @@ echo "Conteúdo de teste." > teste.txt
 echo "Comando 3: Simulando um erro..."
 ls /path/inexistente
 
+sleep 5m
+
+dsfasfasfasfjkfsndf s if(daida= ila)
+else if else
 
 # Finaliza a execução
 echo "Script concluído."
