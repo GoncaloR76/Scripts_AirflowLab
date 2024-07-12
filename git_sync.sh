@@ -3,7 +3,7 @@
 REPO_NAME=$1
 REPO_URL=$2
 BRANCH_NAME=$3
-REPO_DIR="/repo/$REPO_NAME/$BRANCH_NAME/"
+REPO_DIR="/s3bucket/scripts/$REPO_NAME/$BRANCH_NAME/"
 LOG_FILE="/tmp/git_sync.log"
 
 # Limpa o arquivo de log anterior
